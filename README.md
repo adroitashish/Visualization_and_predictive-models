@@ -1,6 +1,6 @@
 # Visualization_and_predictive-models
 
-Visualization
+## Visualization
 
 Histogram,
 Heatmaps,
@@ -8,7 +8,7 @@ pairplot,
 Boxplot,
 barplot,
 
-Predictive Models
+## Predictive Models
 
 Random Forest,
 Stochastic Gradient Decent,
