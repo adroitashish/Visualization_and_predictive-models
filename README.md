@@ -1,2 +1,17 @@
 # Visualization_and_predictive-models
-Red_Wine_Quality
+
+Visualization
+
+Histogram
+Heatmaps
+pairplot
+Boxplot
+barplot
+
+Predictive Models
+
+Random Forest
+Stochastic Gradient Decent
+Support Vector
+Grid Search CV
+
