@@ -2,16 +2,20 @@
 
 Visualization
 
-Histogram
-Heatmaps
-pairplot
-Boxplot
-barplot
+Histogram,
+Heatmaps,
+pairplot,
+Boxplot,
+barplot,
 
 Predictive Models
 
-Random Forest
-Stochastic Gradient Decent
-Support Vector
-Grid Search CV
+Random Forest,
+Stochastic Gradient Decent,
+Support Vector,
+Grid Search CV .
+
+
+
+....To be continued
 
